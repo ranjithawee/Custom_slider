@@ -60,6 +60,7 @@
 }
 .c_prev_control{
     left: 70%;
+    z-index: 2;
 }
 
 /* banner end */
